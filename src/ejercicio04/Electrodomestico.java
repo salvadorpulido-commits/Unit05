@@ -11,8 +11,7 @@ public class Electrodomestico {
     
     private static final String COLOR_DEFAULT       = "blanco";
     private static final char   CONSUMO_DEFAULT     = 'F';
-    private static final double PRECIO_DEFAULT      = 100.0;
-    private static final double PESO_DEFAULT        = 5.0;
+
 
     //Constructores
     
