@@ -6,6 +6,7 @@ public abstract class Ficha {
     protected String titulo;
 
     // Constructor
+    
     public Ficha(int id, String titulo) {
         this.id     = id;
         this.titulo = titulo;
