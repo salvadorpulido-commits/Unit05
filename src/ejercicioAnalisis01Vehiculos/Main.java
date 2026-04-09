@@ -29,7 +29,7 @@ public class Main {
 
         //  Crear el turismo 
         
-        Turismo coche = new Turismo("Seat", "Ibiza", "rojo", "1234-ABC");
+        Turismo coche = new Turismo("Seat", "Altea", "Plata", "1234-ABC");
         System.out.println("Vehículo: " + coche);
 
         // Pedir datos al usuario 
