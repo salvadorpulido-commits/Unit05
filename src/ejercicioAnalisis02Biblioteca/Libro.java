@@ -39,3 +39,4 @@ public class Libro extends Ficha {
                 + ", editorial=" + editorial + "]";
     }
 }
+
