@@ -2,13 +2,13 @@ package ejercicioAnalisis02Biblioteca;
 
 public abstract class Ficha {
 
-    protected int    id;
+    protected int id;
     protected String titulo;
 
     // Constructor
     
     public Ficha(int id, String titulo) {
-        this.id     = id;
+        this.id = id;
         this.titulo = titulo;
     }
 
@@ -18,11 +18,11 @@ public abstract class Ficha {
 
     // Getters y Setters 
 
-    public int    getId()            { return id; }
-    public void   setId(int id)      { this.id = id; }
+    public int getId() { return id; }
+    public void setId(int id) { this.id = id; }
 
-    public String getTitulo()              { return titulo; }
-    public void   setTitulo(String titulo) { this.titulo = titulo; }
+    public String getTitulo() { return titulo; }
+    public void setTitulo(String titulo) { this.titulo = titulo; }
 
     // toString 
 

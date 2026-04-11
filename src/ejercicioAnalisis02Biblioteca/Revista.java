@@ -24,11 +24,11 @@ public class Revista extends Ficha {
 
     //  Getters y Setters 
 
-    public int  getNumeroRevista()               { return numeroRevista; }
-    public void setNumeroRevista(int numero)     { this.numeroRevista = numero; }
+    public int  getNumeroRevista() { return numeroRevista; }
+    public void setNumeroRevista(int numero) { this.numeroRevista = numero; }
 
-    public int  getAnioPublicacion()                   { return anioPublicacion; }
-    public void setAnioPublicacion(int anio)           { this.anioPublicacion = anio; }
+    public int  getAnioPublicacion() { return anioPublicacion; }
+    public void setAnioPublicacion(int anio) { this.anioPublicacion = anio; }
 
     // toString 
 

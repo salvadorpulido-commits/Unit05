@@ -42,14 +42,14 @@ public class DVD extends Ficha {
 
     // Getters y Setters
 
-    public String getDirector()                { return director; }
+    public String getDirector() { return director; }
     public void   setDirector(String director) { this.director = director; }
 
-    public int  getAnio()          { return anio; }
-    public void setAnio(int anio)  { this.anio = anio; }
+    public int  getAnio() { return anio; }
+    public void setAnio(int anio) { this.anio = anio; }
 
-    public String getTipo()              { return tipo; }
-    public void   setTipo(String tipo)   { this.tipo = comprobarTipo(tipo); }
+    public String getTipo() { return tipo; }
+    public void   setTipo(String tipo) { this.tipo = comprobarTipo(tipo); }
 
     //  toString 
 
